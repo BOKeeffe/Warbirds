@@ -1,0 +1,11 @@
+{
+islands: [
+	{	name: islandBig,		x:   -3,		y:   -4,	rotation:  0, mode:	0	},
+	{	name: islandSmall,		x:    4,		y:    1,	rotation:  0, mode:	0	},
+	{	name: islandTiny,		x:   -2,		y:    5,	rotation: 90, mode:	0	},
+],
+enemies: [
+],
+name: 1,
+length: 10,
+}
